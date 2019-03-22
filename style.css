@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  width:100%;
+  font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #4C4C4C;
+  background-color: #eceef1;;
+}
+form {
+  width: 300px;
+  margin:auto;
+}
+h2 {
+  font-weight: 400;
+}
+fieldset {
+  background-color: white;
+  border: 1px solid #d5d6d6;
+}
+input {
+  display:block;
+  margin:auto;
+  margin-top:10px;
+  width: 280px;
+  padding: 8px;
+  border-radius: 3px;
+  border: 1px solid #d5d6d6;
+}
+button:hover{
+  cursor: pointer;
+}
+footer {
+  margin-top:5%;
+}
+footer a {
+  text-decoration: none;
+  margin-left: 15px;
+  font-size: 12px;
+  color: #505050;
+  padding-top: 25px;
+}
+footer p {
+  color: #505050;
+  font-size: 12px;
+}
+
+button {
+  margin-top: 25px;
+  margin-bottom: 30px;
+  width: 300px;
+  height: 40px;
+  font-size: 17px;
+  color: white;
+  background: rgb(0, 119, 197);
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0px 1px gray;
+}
+form a {
+  text-decoration: none;
+  color: #0077C5;
+}
+.signin-info {
+  text-align:right;
+}
+.signin-info p{
+  font-size: 11px;
+  position: relative;
+  right: 130px;
+  top: -10px;
+}
+.signin-info a {
+  text-decoration: none;
+  font-size: 11px;
+  color: #0077C5;;
+  position: relative;
+  right: 130px;
+  top: -20px;
+}
+.signin-info button {
+  position: absolute;
+  right: 15px;
+  top: -25px;
+  font-size: 15px;
+  width: 100px;
+  height: 30px;
+  border: 1px solid black;
+}
+.input-section {
+  margin-top: 25px;
+}
+.form-label {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 100;
+}
+.align-center {
+  display:block;
+  text-align: center;
+  width: 100%;
+}
+.call-detail {
+  font-size: 9px;
+  text-align: left;
+}
+.terms {
+  font-size: 12px;
+}
+.head-info {
+  font-size: 14px;
+}
+#logo-img {
+  margin-left:25px;
+}
